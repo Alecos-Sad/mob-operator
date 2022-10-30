@@ -1,0 +1,15 @@
+by.sadovnick.moboperator
+by.sadovnick.moboperator.aop
+by.sadovnick.moboperator.config
+by.sadovnick.moboperator.controller
+by.sadovnick.moboperator.controller.client
+by.sadovnick.moboperator.controller.exceptionhandler
+by.sadovnick.moboperator.controller.impl
+by.sadovnick.moboperator.dao.entity
+by.sadovnick.moboperator.dao.entity.parent
+by.sadovnick.moboperator.dao.repository
+by.sadovnick.moboperator.dto
+by.sadovnick.moboperator.exception
+by.sadovnick.moboperator.mapper
+by.sadovnick.moboperator.service
+by.sadovnick.moboperator.service.impl
